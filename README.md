@@ -28,7 +28,7 @@ The application leverages Vault's Transit Engine to securely store sensitive inf
 
 ### 2. Generate data-key to encrypt at rest
 
-![Data key](./docs/images/data_key.avif)
+![Data key](./docs/images/data_key.jpg)
 
 For scenarios where you need to encrypt large files or data at rest (e.g., files, blobs), Vault can generate a data key that is used locally for encryption, while the key itself is protected by Vault.
 
